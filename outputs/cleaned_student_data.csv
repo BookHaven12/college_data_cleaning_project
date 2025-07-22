@@ -1,0 +1,201 @@
+student_id,first_name,last_name,gender,age,major,gpa,credits_completed,enrollment_date,graduation_year,home_state,graduation_status,estimated_grad_year
+S1000,Morgan,Johnson,Male,17,Biology,2.77,88,2019-11-19,2023,NY,Graduated,2023
+S1001,Casey,Lee,Female,21,Biology,1.57,72,2020-04-07,,CA,In Progress,2024
+S1002,Jordan,Smith,Male,21,Sociology,2.86,67,2020-08-17,2023,WA,Graduated,2023
+S1003,Casey,Smith,Male,22,Biology,3.1,100,2019-08-07,2024,IL,Graduated,2024
+S1004,Casey,Brown,Male,19,Economics,2.77,97,2020-11-01,,IL,In Progress,2024
+S1005,Taylor,Lee,Male,21,Biology,4.0,10,2022-08-12,2023,NY,Graduated,2023
+S1006,Jordan,Garcia,Female,23,Sociology,2.67,104,2020-02-24,2022,WA,Graduated,2022
+S1007,Jordan,Lee,Female,21,Biology,3.37,66,2022-01-16,2023,IL,Graduated,2023
+S1008,Jordan,Brown,Female,21,Economics,3.03,122,2023-06-14,2025,CA,Graduated,2025
+S1009,Casey,Brown,Male,21,Computer Science,3.38,28,2023-03-30,2025,NY,Graduated,2025
+S1010,Morgan,Lee,Female,19,Computer Science,3.49,75,2019-08-22,2025,WA,Graduated,2025
+S1011,Jordan,Brown,Female,17,Computer Science,2.13,8,2020-09-13,2022,NY,Graduated,2022
+S1012,Casey,Lee,Male,21,Computer Science,2.69,39,2022-01-11,2025,CA,Graduated,2025
+S1013,Taylor,Johnson,Male,25,Computer Science,2.75,24,2020-12-27,2026,WA,Graduated,2026
+S1014,Morgan,Lee,Male,17,Psychology,4.0,4,2022-09-24,2024,NY,Graduated,2024
+S1015,Taylor,Lee,Female,19,Psychology,3.06,123,2021-10-17,2026,TX,Graduated,2026
+S1016,Morgan,Brown,Female,20,Computer Science,3.33,37,2021-12-21,2025,CA,Graduated,2025
+S1017,Casey,Brown,Male,17,Sociology,2.25,71,2019-08-14,2024,CA,Graduated,2024
+S1018,Alex,Smith,Male,17,Economics,3.06,89,2022-03-28,2024,CA,Graduated,2024
+S1019,Morgan,Smith,Female,24,Economics,3.39,36,2022-04-04,2023,TX,Graduated,2023
+S1020,Taylor,Johnson,Female,18,Biology,3.34,59,2022-05-10,,TX,In Progress,2026
+S1021,Casey,Smith,Female,24,Sociology,3.25,27,2022-06-01,,IL,In Progress,2026
+S1022,Morgan,Lee,Female,23,Psychology,3.01,80,2019-10-26,,NY,In Progress,2023
+S1023,Alex,Brown,Male,18,Computer Science,3.02,113,2022-01-25,,IL,In Progress,2026
+S1024,Alex,Smith,Male,22,Biology,2.32,39,2023-03-17,,NY,In Progress,2027
+S1025,Jordan,Smith,Female,22,Economics,2.64,44,2023-01-18,,TX,In Progress,2027
+S1026,Jordan,Johnson,Male,19,Psychology,3.09,61,2019-11-30,2022,TX,Graduated,2022
+S1027,Taylor,Johnson,Female,18,Psychology,2.71,92,2022-10-14,2023,IL,Graduated,2023
+S1028,Morgan,Lee,Non-Binary,17,Computer Science,3.28,114,2021-08-19,2022,WA,Graduated,2022
+S1029,Morgan,Brown,Female,22,Economics,3.19,66,2023-05-11,2024,IL,Graduated,2024
+S1030,Jordan,Johnson,Female,21,Sociology,3.55,55,2021-06-15,2025,NY,Graduated,2025
+S1031,Morgan,Smith,Female,25,Psychology,3.38,39,2020-06-04,2026,IL,Graduated,2026
+S1032,Morgan,Brown,Female,17,Computer Science,3.09,97,2021-06-25,2024,CA,Graduated,2024
+S1033,Alex,Brown,Female,23,Sociology,3.3,39,2020-05-14,2026,NY,Graduated,2026
+S1034,Jordan,Smith,Non-Binary,21,Economics,3.4,90,2020-06-02,2025,NY,Graduated,2025
+S1035,Casey,Johnson,Male,21,Psychology,2.8,32,2022-01-30,2023,WA,Graduated,2023
+S1036,Jordan,Smith,Prefer Not to Say,18,Sociology,2.87,5,2021-05-23,2025,TX,Graduated,2025
+S1037,Casey,Brown,Non-Binary,19,Sociology,2.96,79,2021-01-30,2023,NY,Graduated,2023
+S1038,Alex,Garcia,Male,23,Sociology,2.81,91,2023-05-07,2023,TX,Graduated,2023
+S1039,Taylor,Garcia,Male,22,Psychology,3.41,96,2020-06-07,2024,IL,Graduated,2024
+S1040,Morgan,Lee,Male,18,Psychology,2.75,0,2021-12-20,2023,CA,Graduated,2023
+S1041,Alex,Smith,Male,22,Biology,3.5,58,2022-07-18,2024,WA,Graduated,2024
+S1042,Morgan,Smith,Male,18,Economics,2.85,47,2022-02-09,2024,TX,Graduated,2024
+S1043,Taylor,Lee,Female,18,Computer Science,3.19,12,2021-08-24,2024,NY,Graduated,2024
+S1044,Taylor,Lee,Male,18,Sociology,3.07,106,2019-09-04,2023,TX,Graduated,2023
+S1045,Alex,Lee,Male,19,Biology,2.61,44,2020-10-18,2024,NY,Graduated,2024
+S1046,Taylor,Brown,Female,18,Computer Science,2.99,88,2019-11-01,2024,TX,Graduated,2024
+S1047,Casey,Smith,Male,20,Biology,3.13,99,2022-12-13,2024,NY,Graduated,2024
+S1048,Taylor,Brown,Female,25,Psychology,2.97,6,2020-07-18,2024,IL,Graduated,2024
+S1049,Morgan,Lee,Male,22,Sociology,2.46,44,2022-01-19,2022,NY,Graduated,2022
+S1050,Morgan,Smith,Male,17,Computer Science,3.68,57,2022-09-01,,NY,In Progress,2026
+S1051,Morgan,Brown,Female,24,Computer Science,3.04,30,2021-12-09,2023,CA,Graduated,2023
+S1052,Morgan,Brown,Female,23,Computer Science,2.68,22,2020-01-06,2024,NY,Graduated,2024
+S1053,Casey,Lee,Female,19,Computer Science,3.65,106,2022-03-14,2025,CA,Graduated,2025
+S1054,Jordan,Smith,Female,17,Computer Science,3.25,38,2019-08-24,2024,WA,Graduated,2024
+S1055,Alex,Lee,Female,21,Biology,2.52,81,2020-09-07,2024,CA,Graduated,2024
+S1056,Morgan,Smith,Male,20,Sociology,2.58,99,2021-10-13,,IL,In Progress,2025
+S1057,Taylor,Garcia,Male,24,Psychology,2.91,1,2020-12-28,2025,CA,Graduated,2025
+S1058,Morgan,Johnson,Female,17,Psychology,3.12,76,2021-08-01,2026,WA,Graduated,2026
+S1059,Taylor,Johnson,Female,17,Psychology,3.25,11,2023-05-19,2025,IL,Graduated,2025
+S1060,Taylor,Johnson,Female,20,Psychology,3.38,38,2023-06-06,,TX,In Progress,2027
+S1061,Morgan,Lee,Male,24,Biology,3.22,12,2021-01-13,2022,TX,Graduated,2022
+S1062,Casey,Garcia,Male,21,Economics,3.54,45,2022-03-13,2024,CA,Graduated,2024
+S1063,Taylor,Smith,Female,18,Sociology,3.05,112,2019-12-30,2023,CA,Graduated,2023
+S1064,Taylor,Brown,Male,22,Computer Science,2.7,16,2022-03-04,2024,WA,Graduated,2024
+S1065,Morgan,Smith,Non-Binary,21,Economics,3.0,103,2021-03-30,2023,WA,Graduated,2023
+S1066,Taylor,Brown,Female,18,Psychology,2.97,97,2020-09-23,2024,NY,Graduated,2024
+S1067,Taylor,Smith,Male,19,Economics,1.97,87,2023-01-25,2025,WA,Graduated,2025
+S1068,Morgan,Garcia,Female,25,Sociology,2.78,108,2022-09-14,2025,NY,Graduated,2025
+S1069,Morgan,Brown,Female,23,Computer Science,3.13,69,2021-12-13,2024,IL,Graduated,2024
+S1070,Alex,Lee,Female,23,Computer Science,2.83,73,2021-02-28,2025,CA,Graduated,2025
+S1071,Casey,Smith,Non-Binary,22,Sociology,2.74,62,2020-06-30,2024,IL,Graduated,2024
+S1072,Casey,Smith,Female,24,Sociology,3.36,59,2023-07-12,2025,WA,Graduated,2025
+S1073,Taylor,Brown,Female,20,Psychology,2.63,78,2022-02-17,2022,IL,Graduated,2022
+S1074,Casey,Lee,Male,24,Computer Science,3.28,36,2020-05-21,,IL,In Progress,2024
+S1075,Taylor,Lee,Female,20,Economics,2.47,21,2021-08-24,2024,IL,Graduated,2024
+S1076,Alex,Garcia,Male,24,Biology,4.0,95,2023-05-26,2023,WA,Graduated,2023
+S1077,Morgan,Lee,Male,25,Biology,2.91,67,2020-02-02,2023,IL,Graduated,2023
+S1078,Morgan,Lee,Non-Binary,19,Sociology,2.87,16,2023-01-21,2024,NY,Graduated,2024
+S1079,Morgan,Lee,Male,19,Psychology,3.46,11,2021-04-28,2023,WA,Graduated,2023
+S1080,Casey,Johnson,Male,18,Computer Science,2.83,117,2023-02-12,2023,IL,Graduated,2023
+S1081,Alex,Garcia,Prefer Not to Say,19,Computer Science,3.58,21,2023-01-12,2024,WA,Graduated,2024
+S1082,Casey,Smith,Prefer Not to Say,19,Sociology,3.15,119,2021-01-11,2024,TX,Graduated,2024
+S1083,Casey,Brown,Female,21,Economics,2.95,49,2019-08-21,2024,NY,Graduated,2024
+S1084,Alex,Smith,Female,21,Sociology,2.91,13,2022-01-27,2026,IL,Graduated,2026
+S1085,Alex,Garcia,Male,18,Economics,3.48,28,2021-12-14,2024,TX,Graduated,2024
+S1086,Alex,Brown,Male,22,Sociology,3.09,124,2021-10-02,2024,TX,Graduated,2024
+S1087,Alex,Garcia,Male,21,Sociology,3.17,6,2019-11-08,2022,WA,Graduated,2022
+S1088,Morgan,Lee,Female,22,Sociology,3.22,28,2021-08-21,2025,TX,Graduated,2025
+S1089,Jordan,Brown,Female,17,Economics,3.05,32,2020-11-20,2023,NY,Graduated,2023
+S1090,Jordan,Lee,Female,21,Computer Science,3.21,110,2023-03-14,,NY,In Progress,2027
+S1091,Alex,Smith,Female,25,Sociology,2.95,78,2022-02-25,2025,CA,Graduated,2025
+S1092,Jordan,Smith,Male,18,Biology,2.98,57,2021-01-07,2024,NY,Graduated,2024
+S1093,Jordan,Brown,Female,17,Psychology,2.55,25,2020-06-29,2022,TX,Graduated,2022
+S1094,Alex,Brown,Male,25,Psychology,3.12,28,2019-08-02,2025,NY,Graduated,2025
+S1095,Jordan,Garcia,Female,25,Psychology,2.31,3,2020-08-09,2025,WA,Graduated,2025
+S1096,Casey,Garcia,Male,25,Economics,3.11,98,2020-05-19,2023,CA,Graduated,2023
+S1097,Taylor,Lee,Female,22,Economics,2.89,38,2021-11-14,2023,TX,Graduated,2023
+S1098,Taylor,Brown,Male,24,Biology,3.15,14,2022-05-01,2025,CA,Graduated,2025
+S1099,Alex,Smith,Male,17,Psychology,2.58,118,2021-02-03,2023,TX,Graduated,2023
+S1100,Morgan,Garcia,Male,20,Psychology,2.15,28,2020-06-13,2026,WA,Graduated,2026
+S1101,Alex,Garcia,Female,17,Sociology,2.86,74,2020-08-15,2024,CA,Graduated,2024
+S1102,Morgan,Smith,Female,24,Economics,2.58,115,2019-08-14,2022,IL,Graduated,2022
+S1103,Taylor,Garcia,Male,17,Psychology,2.29,31,2020-12-16,2025,TX,Graduated,2025
+S1104,Alex,Lee,Male,19,Biology,3.31,129,2020-03-18,2023,IL,Graduated,2023
+S1105,Casey,Brown,Female,20,Biology,3.64,83,2022-08-12,2024,CA,Graduated,2024
+S1106,Jordan,Smith,Male,24,Psychology,2.68,21,2019-12-08,2022,IL,Graduated,2022
+S1107,Morgan,Brown,Female,22,Economics,2.97,26,2021-11-15,2022,IL,Graduated,2022
+S1108,Jordan,Garcia,Female,23,Biology,2.88,80,2022-10-12,2024,CA,Graduated,2024
+S1109,Jordan,Garcia,Male,24,Sociology,2.74,125,2022-01-07,2024,WA,Graduated,2024
+S1110,Alex,Smith,Male,18,Biology,3.27,91,2019-08-28,2024,IL,Graduated,2024
+S1111,Jordan,Lee,Prefer Not to Say,24,Computer Science,3.4,20,2019-10-05,2025,IL,Graduated,2025
+S1112,Casey,Johnson,Male,19,Computer Science,2.65,46,2022-10-30,2024,WA,Graduated,2024
+S1113,Jordan,Smith,Male,23,Economics,3.02,100,2023-01-04,2023,IL,Graduated,2023
+S1114,Alex,Johnson,Female,19,Psychology,3.51,83,2020-04-17,2023,IL,Graduated,2023
+S1115,Casey,Johnson,Non-Binary,23,Economics,3.28,5,2023-07-18,2026,IL,Graduated,2026
+S1116,Taylor,Lee,Prefer Not to Say,18,Economics,3.34,0,2020-11-02,2025,NY,Graduated,2025
+S1117,Jordan,Johnson,Female,22,Economics,3.55,57,2020-05-27,2024,WA,Graduated,2024
+S1118,Alex,Johnson,Male,19,Economics,3.54,123,2022-02-04,2023,IL,Graduated,2023
+S1119,Taylor,Lee,Male,19,Sociology,3.41,14,2023-03-19,2023,WA,Graduated,2023
+S1120,Taylor,Johnson,Female,25,Sociology,3.06,63,2020-05-13,2025,TX,Graduated,2025
+S1121,Morgan,Johnson,Female,23,Biology,2.85,24,2023-06-19,2025,TX,Graduated,2025
+S1122,Casey,Johnson,Male,21,Computer Science,3.04,23,2022-05-30,2024,IL,Graduated,2024
+S1123,Jordan,Smith,Non-Binary,23,Economics,2.79,11,2021-04-21,2025,WA,Graduated,2025
+S1124,Alex,Smith,Male,25,Biology,2.22,17,2020-04-26,2025,WA,Graduated,2025
+S1125,Morgan,Smith,Female,17,Computer Science,2.89,14,2021-03-14,2022,WA,Graduated,2022
+S1126,Casey,Lee,Male,23,Psychology,3.14,26,2021-11-21,2024,NY,Graduated,2024
+S1127,Morgan,Garcia,Female,22,Sociology,2.77,71,2021-12-09,2023,TX,Graduated,2023
+S1128,Casey,Johnson,Male,25,Computer Science,2.92,59,2023-05-16,2023,WA,Graduated,2023
+S1129,Casey,Johnson,Male,17,Psychology,2.94,92,2023-02-01,2025,WA,Graduated,2025
+S1130,Jordan,Lee,Male,20,Computer Science,3.54,52,2019-12-11,2024,NY,Graduated,2024
+S1131,Casey,Johnson,Female,25,Sociology,2.86,7,2023-02-20,2024,NY,Graduated,2024
+S1132,Morgan,Smith,Female,20,Sociology,3.54,78,2022-03-29,2023,WA,Graduated,2023
+S1133,Casey,Garcia,Female,19,Biology,1.92,26,2020-12-25,2023,CA,Graduated,2023
+S1134,Jordan,Brown,Prefer Not to Say,25,Economics,3.54,49,2020-06-08,2023,WA,Graduated,2023
+S1135,Jordan,Johnson,Male,18,Computer Science,3.52,92,2021-02-26,2023,WA,Graduated,2023
+S1136,Morgan,Smith,Male,20,Computer Science,3.36,23,2022-01-02,2024,NY,Graduated,2024
+S1137,Taylor,Brown,Female,22,Psychology,2.2,59,2023-02-28,2023,NY,Graduated,2023
+S1138,Taylor,Garcia,Male,18,Sociology,3.41,121,2022-09-18,2024,WA,Graduated,2024
+S1139,Casey,Brown,Prefer Not to Say,24,Computer Science,2.98,45,2022-09-04,2022,WA,Graduated,2022
+S1140,Alex,Smith,Male,24,Sociology,1.99,14,2021-06-17,2022,WA,Graduated,2022
+S1141,Casey,Brown,Prefer Not to Say,17,Computer Science,3.52,16,2022-12-10,2023,NY,Graduated,2023
+S1142,Morgan,Lee,Male,19,Biology,3.58,125,2020-01-12,2024,WA,Graduated,2024
+S1143,Morgan,Brown,Female,25,Economics,2.24,83,2020-05-31,2024,WA,Graduated,2024
+S1144,Morgan,Johnson,Female,21,Computer Science,3.07,8,2020-01-03,2024,IL,Graduated,2024
+S1145,Morgan,Johnson,Prefer Not to Say,22,Sociology,3.56,62,2023-05-22,2024,CA,Graduated,2024
+S1146,Morgan,Lee,Male,20,Biology,3.49,116,2021-04-11,2025,TX,Graduated,2025
+S1147,Jordan,Smith,Female,18,Computer Science,3.33,129,2023-01-26,,CA,In Progress,2027
+S1148,Taylor,Johnson,Prefer Not to Say,24,Psychology,1.94,87,2022-03-14,2023,IL,Graduated,2023
+S1149,Morgan,Garcia,Female,22,Economics,3.29,71,2020-06-29,2025,TX,Graduated,2025
+S1150,Alex,Johnson,Female,21,Computer Science,2.91,63,2022-03-26,2024,WA,Graduated,2024
+S1151,Alex,Johnson,Female,25,Biology,3.4,71,2020-12-23,2023,IL,Graduated,2023
+S1152,Alex,Smith,Female,17,Psychology,3.1,20,2023-03-09,2026,WA,Graduated,2026
+S1153,Alex,Brown,Female,21,Biology,2.99,17,2022-06-09,2025,NY,Graduated,2025
+S1154,Jordan,Johnson,Female,22,Biology,3.26,63,2020-05-08,2023,IL,Graduated,2023
+S1155,Alex,Lee,Non-Binary,21,Psychology,2.93,81,2021-10-05,2024,NY,Graduated,2024
+S1156,Morgan,Brown,Male,22,Biology,2.99,109,2022-05-21,2024,IL,Graduated,2024
+S1157,Casey,Garcia,Male,22,Psychology,2.78,94,2019-11-27,2024,IL,Graduated,2024
+S1158,Alex,Smith,Prefer Not to Say,23,Computer Science,2.36,31,2022-06-24,2023,NY,Graduated,2023
+S1159,Jordan,Garcia,Female,20,Psychology,3.23,10,2020-02-14,2023,TX,Graduated,2023
+S1160,Jordan,Brown,Female,24,Psychology,2.68,44,2020-11-27,2024,CA,Graduated,2024
+S1161,Alex,Brown,Female,23,Economics,2.92,32,2022-07-18,2024,WA,Graduated,2024
+S1162,Casey,Brown,Male,25,Psychology,3.11,101,2021-11-14,2025,IL,Graduated,2025
+S1163,Alex,Garcia,Male,23,Psychology,2.17,10,2022-10-28,2024,WA,Graduated,2024
+S1164,Jordan,Brown,Female,19,Computer Science,2.26,87,2022-05-05,2022,NY,Graduated,2022
+S1165,Taylor,Garcia,Male,19,Economics,2.88,40,2021-06-21,2024,WA,Graduated,2024
+S1166,Morgan,Brown,Female,24,Sociology,3.18,75,2022-12-12,2023,NY,Graduated,2023
+S1167,Jordan,Lee,Male,21,Computer Science,3.3,120,2022-06-01,2024,WA,Graduated,2024
+S1168,Alex,Brown,Prefer Not to Say,20,Computer Science,2.36,45,2020-12-02,2024,CA,Graduated,2024
+S1169,Morgan,Garcia,Prefer Not to Say,24,Sociology,3.25,79,2020-05-02,2023,CA,Graduated,2023
+S1170,Alex,Johnson,Female,22,Psychology,2.9,53,2021-06-23,2024,CA,Graduated,2024
+S1171,Alex,Brown,Female,18,Biology,2.65,85,2020-03-29,2023,CA,Graduated,2023
+S1172,Taylor,Johnson,Male,20,Economics,2.74,91,2022-12-22,2022,CA,Graduated,2022
+S1173,Morgan,Lee,Female,20,Biology,3.32,96,2023-01-26,2023,CA,Graduated,2023
+S1174,Morgan,Smith,Female,22,Sociology,3.11,1,2019-12-04,2023,NY,Graduated,2023
+S1175,Taylor,Lee,Male,22,Computer Science,3.02,32,2020-03-04,,IL,In Progress,2024
+S1176,Jordan,Brown,Non-Binary,17,Computer Science,3.1,76,2023-03-22,2024,WA,Graduated,2024
+S1177,Alex,Johnson,Female,24,Economics,3.37,115,2022-11-21,2023,CA,Graduated,2023
+S1178,Casey,Johnson,Non-Binary,22,Computer Science,2.96,102,2022-06-28,2024,NY,Graduated,2024
+S1179,Alex,Garcia,Female,19,Computer Science,3.02,102,2022-12-29,2022,NY,Graduated,2022
+S1180,Alex,Johnson,Female,25,Economics,3.46,89,2022-11-20,,NY,In Progress,2026
+S1181,Jordan,Garcia,Male,18,Economics,2.87,121,2020-12-07,2024,IL,Graduated,2024
+S1182,Alex,Smith,Non-Binary,24,Sociology,3.25,105,2020-09-30,2025,WA,Graduated,2025
+S1183,Taylor,Brown,Female,19,Computer Science,2.8,118,2022-11-14,2023,IL,Graduated,2023
+S1184,Taylor,Garcia,Male,21,Computer Science,2.83,48,2022-02-04,2024,TX,Graduated,2024
+S1185,Morgan,Smith,Male,22,Sociology,2.96,103,2023-07-22,2024,NY,Graduated,2024
+S1186,Casey,Johnson,Male,22,Psychology,3.21,60,2023-03-10,2025,TX,Graduated,2025
+S1187,Alex,Johnson,Female,20,Psychology,3.48,122,2019-12-29,2022,CA,Graduated,2022
+S1188,Alex,Smith,Prefer Not to Say,19,Psychology,3.04,8,2020-08-18,2023,CA,Graduated,2023
+S1189,Jordan,Johnson,Male,20,Sociology,2.4,5,2020-06-03,,IL,In Progress,2024
+S1190,Taylor,Smith,Female,17,Computer Science,3.25,72,2023-04-21,2024,WA,Graduated,2024
+S1191,Casey,Garcia,Male,20,Sociology,3.98,102,2021-08-15,2023,TX,Graduated,2023
+S1192,Morgan,Garcia,Prefer Not to Say,17,Sociology,3.04,40,2022-01-08,2022,WA,Graduated,2022
+S1193,Taylor,Smith,Female,17,Psychology,2.32,113,2020-08-09,,IL,In Progress,2024
+S1194,Morgan,Garcia,Female,22,Biology,3.07,7,2022-05-28,2022,CA,Graduated,2022
+S1195,Jordan,Garcia,Female,21,Computer Science,3.0,71,2023-04-26,2025,WA,Graduated,2025
+S1196,Jordan,Garcia,Male,20,Psychology,2.97,91,2019-12-07,2025,WA,Graduated,2025
+S1197,Alex,Lee,Male,19,Biology,3.38,61,2022-05-11,2023,CA,Graduated,2023
+S1198,Casey,Brown,Male,17,Biology,3.55,83,2021-05-30,2024,TX,Graduated,2024
+S1199,Morgan,Johnson,Female,22,Economics,3.27,61,2023-05-07,,CA,In Progress,2027
